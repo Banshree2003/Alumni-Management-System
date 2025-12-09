@@ -56,7 +56,7 @@ It allows students, alumni, and administrators to interact through a centralized
 **Name:** Banshree Rana  
 **Course:** MCA  
 **College:** Silver Oak University  
-**Email:** your-email@gmail.com
+**Email:** rbanshree0820@gmail.com
 
 ---
 
